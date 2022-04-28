@@ -74,7 +74,7 @@
   
 </details>
 
-### Read the comments on lines 27 & 28 before proceeding
+### Read the comments on lines 25 & 26 before proceeding
 
 <details><summary>What are the prices on the screen?</summary>
   
