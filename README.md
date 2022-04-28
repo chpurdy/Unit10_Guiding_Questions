@@ -108,6 +108,9 @@
  </details>
   
   
+### If you followed my directions, you should have added 4 lines in getTotal(), and 5 lines in drawList() (in 2 separate sections).
+
+### If it still doesn't work, go back through the guiding questions slowly and make sure you didn't skip anything. Read carefully.
 
   
 
