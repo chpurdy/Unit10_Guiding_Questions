@@ -41,7 +41,7 @@
 </details>
 
 ![drawList() code](./img2.png)
-### Read the comments on lines 23 & 24 before proceeding
+### Read the comments on lines 21 & 22 before proceeding
 
 <details><summary>How do you get the total amount spent?</summary>
   
