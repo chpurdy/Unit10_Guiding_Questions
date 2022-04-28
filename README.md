@@ -46,7 +46,14 @@
 <details><summary>How do you get the total amount spent?</summary>
   
   Call the helper function `getTotal` and store its return value in a variable.  Maybe call the variable `total`.
+  <details><summary>How do you store the return value in a variable?</summary>
+    
+    total = getTotal()
+  </details>
+
 </details>
+
+
 
 <details><summary>What is the prices list?</summary>
   
